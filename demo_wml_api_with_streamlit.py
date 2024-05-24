@@ -14,7 +14,7 @@ This example shows a simple generation or Q&A use case without comprehensive pro
 
 # In non-Anaconda Python environments, you may also need to install dotenv
 # pip install python-dotenv
-
+!pip install python-dotenv
 # For reading credentials from the .env file
 import os
 from dotenv import load_dotenv
